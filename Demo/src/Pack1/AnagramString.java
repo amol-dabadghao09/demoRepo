@@ -5,7 +5,7 @@ public class AnagramString {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Enter any 2 string to check ");
+		System.out.println("Enter any 2 string to check Anagram or not");
 		
 		Scanner s1 = new Scanner(System.in);
 		Scanner s2 = new Scanner(System.in);
